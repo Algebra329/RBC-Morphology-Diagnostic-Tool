@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ML data & checkpoints (too large for git)
+ml/data/raw/
+ml/data/processed/
+ml/models/*.pt
+ml/models/*.pth
+
+# Node
+web/node_modules/
+web/.next/
+web/dist/
+
+# OS
+.DS_Store

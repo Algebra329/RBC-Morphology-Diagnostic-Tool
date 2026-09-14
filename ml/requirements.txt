@@ -1,0 +1,10 @@
+torch
+torchvision
+monai
+onnx
+onnxruntime
+efficientnet-pytorch
+numpy
+pillow
+scikit-learn
+matplotlib
